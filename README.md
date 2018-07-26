@@ -11,7 +11,7 @@ https://www.xlwings.org/
 https://www.kaggle.com/codename007/home-credit-complete-eda-feature-importance<br>
 https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction<br>
 <br>
-
+http://www.bogotobogo.com/python/scikit-learn/Artificial-Neural-Network-ANN-1-Introduction.php
 <b>#Practice</b> <br>
 Titanic dataset <br>
 Global commodity  trade statistics<br>
