@@ -24,5 +24,7 @@ https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568<b
 http://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection.html#sphx-glr-auto-examples-feature-selection-plot-feature-selection-py<br>
 https://ocw.mit.edu/courses/find-by-topic/#cat=mathematics&subcat=mathematicalanalysis<br>
 https://www.mathworks.com/campaigns/offers/machine-learning-with-matlab.html?s_eid=psn_33521757490&q=machine%20learning&gclid=EAIaIQobChMIq4q56OC33AIVF1uGCh1mdAGrEAMYASAAEgKLM_D_BwE<br>
-https://medium.freecodecamp.org/how-i-landed-offers-from-microsoft-amazon-and-twitter-without-an-ivy-league-degree-d62cfe286eb8
-https://www.datasciencecentral.com/profiles/blogs/data-science-and-machine-learning-great-list-of-resources
+https://medium.freecodecamp.org/how-i-landed-offers-from-microsoft-amazon-and-twitter-without-an-ivy-league-degree-d62cfe286eb8<br>
+https://www.datasciencecentral.com/profiles/blogs/data-science-and-machine-learning-great-list-of-resources<br>
+https://www.codechef.com/problems/challenge<br>
+https://www.kaggle.com/rtatman/the-5-day-regression-challenge<br>
