@@ -29,3 +29,5 @@ https://www.datasciencecentral.com/profiles/blogs/data-science-and-machine-learn
 https://www.codechef.com/problems/challenge<br>
 https://www.kaggle.com/rtatman/the-5-day-regression-challenge<br>
 https://leetcode.com/<br>
+Kaggle Live youtube channel <br>
+https://www.youtube.com/playlist?list=PLqFaTIg4myu9f21aM1POYVeoaHbFf1hMc
