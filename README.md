@@ -17,10 +17,8 @@ http://www.bogotobogo.com/python/scikit-learn/Artificial-Neural-Network-ANN-1-In
 Titanic dataset <br>
 Global commodity  trade statistics<br>
 Home Credit Default Comp <br>
-
 https://towardsdatascience.com/newbies-guide-to-deep-learning-6bf601c5a98e<br>
 https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568<br>
-
 http://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection.html#sphx-glr-auto-examples-feature-selection-plot-feature-selection-py<br>
 https://ocw.mit.edu/courses/find-by-topic/#cat=mathematics&subcat=mathematicalanalysis<br>
 https://www.mathworks.com/campaigns/offers/machine-learning-with-matlab.html?s_eid=psn_33521757490&q=machine%20learning&gclid=EAIaIQobChMIq4q56OC33AIVF1uGCh1mdAGrEAMYASAAEgKLM_D_BwE<br>
