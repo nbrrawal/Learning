@@ -13,6 +13,7 @@ https://www.kaggle.com/codename007/home-credit-complete-eda-feature-importance<b
 https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction<br>
 https://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/<br>
 http://www.bogotobogo.com/python/scikit-learn/Artificial-Neural-Network-ANN-1-Introduction.php<br>
+https://stat.mit.edu/<br>
 <b>#Practice</b> <br>
 Titanic dataset <br>
 Global commodity  trade statistics<br>
