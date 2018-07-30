@@ -17,6 +17,7 @@ http://www.bogotobogo.com/python/scikit-learn/Artificial-Neural-Network-ANN-1-In
 Titanic dataset <br>
 Global commodity  trade statistics<br>
 Home Credit Default Comp <br>
+Analytics Mag Competition 
 https://towardsdatascience.com/newbies-guide-to-deep-learning-6bf601c5a98e<br>
 https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568<br>
 http://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection.html#sphx-glr-auto-examples-feature-selection-plot-feature-selection-py<br>
@@ -29,3 +30,4 @@ https://www.kaggle.com/rtatman/the-5-day-regression-challenge<br>
 https://leetcode.com/<br>
 Kaggle Live youtube channel <br>
 https://www.youtube.com/playlist?list=PLqFaTIg4myu9f21aM1POYVeoaHbFf1hMc
+ 
