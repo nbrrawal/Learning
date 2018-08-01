@@ -35,3 +35,6 @@ Deep Belief Networks
 https://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/
 http://deeplearning.net/tutorial/DBN.html
 https://github.com/opencv/opencv
+Hybrid Monte Carlo Sampling 
+http://deeplearning.net/tutorial/hmc.html
+
