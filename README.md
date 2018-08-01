@@ -31,4 +31,7 @@ https://www.kaggle.com/rtatman/the-5-day-regression-challenge<br>
 https://leetcode.com/<br>
 Kaggle Live youtube channel <br>
 https://www.youtube.com/playlist?list=PLqFaTIg4myu9f21aM1POYVeoaHbFf1hMc
- 
+Deep Belief Networks
+https://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/
+http://deeplearning.net/tutorial/DBN.html
+https://github.com/opencv/opencv
