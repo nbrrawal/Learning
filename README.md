@@ -37,4 +37,5 @@ http://deeplearning.net/tutorial/DBN.html
 https://github.com/opencv/opencv
 Hybrid Monte Carlo Sampling 
 http://deeplearning.net/tutorial/hmc.html
+http://songhuiming.github.io/pages/2018/05/05/credit-card-fraud-detection-imbalanced-data-modeling-part-i-logistic-regression/
 
