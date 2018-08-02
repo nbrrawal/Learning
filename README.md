@@ -43,6 +43,9 @@ https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-
 <b>den backer</b>
 https://www.kaggle.com/dansbecker/your-first-scikit-learn-model/notebook
 https://www.cse.iitk.ac.in/users/sigml/lec/DeepLearningLib.pdf
-<b>algebra</b>
+<b>algebra</b><br>
 http://tutorial.math.lamar.edu/Problems/Alg/Factoring.aspx
 https://www.wyzant.com/resources/lessons/math/calculus
+<b>data repo</b>
+http://archive.ics.uci.edu/ml/index.php
+
