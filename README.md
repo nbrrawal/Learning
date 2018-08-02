@@ -40,4 +40,5 @@ http://deeplearning.net/tutorial/hmc.html
 http://songhuiming.github.io/pages/2018/05/05/credit-card-fraud-detection-imbalanced-data-modeling-part-i-logistic-regression/
 http://songhuiming.github.io/pages/2016/07/12/variable-selection-in-python/
 https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
-
+<b>den backer</b>
+https://www.kaggle.com/dansbecker/your-first-scikit-learn-model/notebook
