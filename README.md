@@ -45,3 +45,4 @@ https://www.kaggle.com/dansbecker/your-first-scikit-learn-model/notebook
 https://www.cse.iitk.ac.in/users/sigml/lec/DeepLearningLib.pdf
 <b>algebra</b>
 http://tutorial.math.lamar.edu/Problems/Alg/Factoring.aspx
+https://www.wyzant.com/resources/lessons/math/calculus
