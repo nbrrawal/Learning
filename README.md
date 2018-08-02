@@ -49,3 +49,4 @@ https://www.wyzant.com/resources/lessons/math/calculus
 <b>data repo</b>
 http://archive.ics.uci.edu/ml/index.php
 https://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/
+https://stepupanalytics.com/feature-selection-for-machine-learning-in-python/
