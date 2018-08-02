@@ -48,4 +48,4 @@ http://tutorial.math.lamar.edu/Problems/Alg/Factoring.aspx
 https://www.wyzant.com/resources/lessons/math/calculus
 <b>data repo</b>
 http://archive.ics.uci.edu/ml/index.php
-
+https://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/
