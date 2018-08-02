@@ -35,18 +35,18 @@ Deep Belief Networks
 https://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/
 http://deeplearning.net/tutorial/DBN.html
 https://github.com/opencv/opencv
-Hybrid Monte Carlo Sampling 
-http://deeplearning.net/tutorial/hmc.html
-http://songhuiming.github.io/pages/2018/05/05/credit-card-fraud-detection-imbalanced-data-modeling-part-i-logistic-regression/
-http://songhuiming.github.io/pages/2016/07/12/variable-selection-in-python/
-https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
-<b>den backer</b>
-https://www.kaggle.com/dansbecker/your-first-scikit-learn-model/notebook
-https://www.cse.iitk.ac.in/users/sigml/lec/DeepLearningLib.pdf
-<b>algebra</b><br>
-http://tutorial.math.lamar.edu/Problems/Alg/Factoring.aspx<br>
-https://www.wyzant.com/resources/lessons/math/calculus<br>
-<b>data repo</b><br>
-http://archive.ics.uci.edu/ml/index.php<br>
-https://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/<br>
-https://stepupanalytics.com/feature-selection-for-machine-learning-in-python/
+<br>Hybrid Monte Carlo Sampling 
+<br>http://deeplearning.net/tutorial/hmc.html
+<br>http://songhuiming.github.io/pages/2018/05/05/credit-card-fraud-detection-imbalanced-data-modeling-part-i-logistic-regression/
+<br>http://songhuiming.github.io/pages/2016/07/12/variable-selection-in-python/
+<br>https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
+<br><b>den backer</b>
+<br>https://www.kaggle.com/dansbecker/your-first-scikit-learn-model/notebook
+<br>https://www.cse.iitk.ac.in/users/sigml/lec/DeepLearningLib.pdf
+<br><b>algebra</b>
+<br>http://tutorial.math.lamar.edu/Problems/Alg/Factoring.aspx<br>
+<br>https://www.wyzant.com/resources/lessons/math/calculus<br>
+<br><b>data repo</b>
+<br>http://archive.ics.uci.edu/ml/index.php<br>
+<br>https://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/<br>
+<br>https://stepupanalytics.com/feature-selection-for-machine-learning-in-python/
