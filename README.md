@@ -50,3 +50,5 @@ https://github.com/opencv/opencv
 <br>http://archive.ics.uci.edu/ml/index.php<br>
 <br>https://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/<br>
 <br>https://stepupanalytics.com/feature-selection-for-machine-learning-in-python/
+tensor flow 
+https://www.youtube.com/watch?v=oYbVFhK_olY&list=PLSPWNkAMSvv5DKeSVDbEbUKSsK4Z-GgiP
