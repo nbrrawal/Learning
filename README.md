@@ -53,4 +53,5 @@ https://github.com/opencv/opencv
 tensor flow 
 https://www.youtube.com/watch?v=oYbVFhK_olY&list=PLSPWNkAMSvv5DKeSVDbEbUKSsK4Z-GgiP
 https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-6-feature-engineering-and-feature-selection-8b94f870706a
+<b> Siraj Rawal tutorial </b> <br>
 https://github.com/llSourcell/logistic_regression_newtons_method
