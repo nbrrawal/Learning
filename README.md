@@ -55,3 +55,9 @@ https://www.youtube.com/watch?v=oYbVFhK_olY&list=PLSPWNkAMSvv5DKeSVDbEbUKSsK4Z-G
 https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-6-feature-engineering-and-feature-selection-8b94f870706a
 <b> Siraj Rawal tutorial </b> <br>
 https://github.com/llSourcell/logistic_regression_newtons_method
+<b> Kaggle Participator  and mathhs tutorials 
+  
+https://ayearofai.com/rohan-6-follow-up-statistical-interpretation-of-logistic-regression-e78de3b4d938
+https://olgabelitskaya.github.io/index.html
+https://github.com/udacity/machine-learning
+https://github.com/lazyprogrammer/machine_learning_examples/blob/master/logistic_regression_class/logistic1.py
