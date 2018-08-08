@@ -60,3 +60,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://olgabelitskaya.github.io/index.html<br>
 <br>https://github.com/udacity/machine-learning<br>
 <br>https://github.com/lazyprogrammer/machine_learning_examples/blob/master/logistic_regression_class/logistic1.py<br>
+<br> https://github.com/IdoZehori/Credit_Score/blob/master/Credit%20score.ipynb
