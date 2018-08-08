@@ -19,22 +19,22 @@ Titanic dataset <br>
 Global commodity  trade statistics<br>
 Home Credit Default Comp <br>
 Analytics Mag Competition 
-https://towardsdatascience.com/newbies-guide-to-deep-learning-6bf601c5a98e<br>
-https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568<br>
-http://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection.html#sphx-glr-auto-examples-feature-selection-plot-feature-selection-py<br>
-https://ocw.mit.edu/courses/find-by-topic/#cat=mathematics&subcat=mathematicalanalysis<br>
-https://www.mathworks.com/campaigns/offers/machine-learning-with-matlab.html?s_eid=psn_33521757490&q=machine%20learning&gclid=EAIaIQobChMIq4q56OC33AIVF1uGCh1mdAGrEAMYASAAEgKLM_D_BwE<br>
-https://medium.freecodecamp.org/how-i-landed-offers-from-microsoft-amazon-and-twitter-without-an-ivy-league-degree-d62cfe286eb8<br>
-https://www.datasciencecentral.com/profiles/blogs/data-science-and-machine-learning-great-list-of-resources<br>
-https://www.codechef.com/problems/challenge<br>
-https://www.kaggle.com/rtatman/the-5-day-regression-challenge<br>
-https://leetcode.com/<br>
-Kaggle Live youtube channel <br>
-https://www.youtube.com/playlist?list=PLqFaTIg4myu9f21aM1POYVeoaHbFf1hMc
-Deep Belief Networks
-https://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/
-http://deeplearning.net/tutorial/DBN.html
-https://github.com/opencv/opencv
+<br>https://towardsdatascience.com/newbies-guide-to-deep-learning-6bf601c5a98e<br>
+<br>https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568<br>
+<br>http://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection.html#sphx-glr-auto-examples-feature-selection-plot-feature-selection-py<br>
+<br>https://ocw.mit.edu/courses/find-by-topic/#cat=mathematics&subcat=mathematicalanalysis<br>
+<br>https://www.mathworks.com/campaigns/offers/machine-learning-with-matlab.html?s_eid=psn_33521757490&q=machine%20learning&gclid=EAIaIQobChMIq4q56OC33AIVF1uGCh1mdAGrEAMYASAAEgKLM_D_BwE<br>
+<br>https://medium.freecodecamp.org/how-i-landed-offers-from-microsoft-amazon-and-twitter-without-an-ivy-league-degree-d62cfe286eb8<br>
+<br>https://www.datasciencecentral.com/profiles/blogs/data-science-and-machine-learning-great-list-of-resources<br>
+<br>https://www.codechef.com/problems/challenge<br>
+<br>https://www.kaggle.com/rtatman/the-5-day-regression-challenge
+<br>https://leetcode.com/
+<br>Kaggle Live youtube channel 
+<br>https://www.youtube.com/playlist?list=PLqFaTIg4myu9f21aM1POYVeoaHbFf1hMc
+<br>Deep Belief Networks
+<br>https://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/
+<br>http://deeplearning.net/tutorial/DBN.html
+<br>https://github.com/opencv/opencv
 <br>Hybrid Monte Carlo Sampling 
 <br>http://deeplearning.net/tutorial/hmc.html
 <br>http://songhuiming.github.io/pages/2018/05/05/credit-card-fraud-detection-imbalanced-data-modeling-part-i-logistic-regression/
@@ -62,4 +62,5 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://github.com/lazyprogrammer/machine_learning_examples/blob/master/logistic_regression_class/logistic1.py<br>
 <br> https://github.com/IdoZehori/Credit_Score/blob/master/Credit%20score.ipynb
 <br> https://dziganto.github.io/cross-validation/data%20science/machine%20learning/model%20tuning/python/Model-Tuning-with-Validation-and-Cross-Validation/
+  <br> create github website
 <br>https://amber.rbind.io/blog/2016/12/19/creatingsite/#github
