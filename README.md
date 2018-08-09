@@ -64,3 +64,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br> https://dziganto.github.io/cross-validation/data%20science/machine%20learning/model%20tuning/python/Model-Tuning-with-Validation-and-Cross-Validation/
   <br> create github website
 <br>https://amber.rbind.io/blog/2016/12/19/creatingsite/#github
+<br>http://www.statsmodels.org/stable/examples/index.html#regression
