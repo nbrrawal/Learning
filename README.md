@@ -66,9 +66,12 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://amber.rbind.io/blog/2016/12/19/creatingsite/#github
 <br>http://www.statsmodels.org/stable/examples/index.html#regression
 <br> https://www.google.com/search?q=toastmasters+training+pdf&oq=toastmasters+training+pdf+&aqs=chrome..69i57.9823j1j7&sourceid=chrome&ie=UTF-8
+Python top libraries link <br>
+  https://www.programcreek.com/python/
 <br><b>Toastmasters</b>
 Mohd Qahtani Humourouse
 <br>https://www.youtube.com/watch?v=w5ls9Z8wjNY
+
   <br> <h1>R</H1>
   https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/
   
