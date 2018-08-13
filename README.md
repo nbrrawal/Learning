@@ -71,6 +71,7 @@ Python top libraries link <br>
 <br><b>Toastmasters</b>
 Mohd Qahtani Humourouse
 <br>https://www.youtube.com/watch?v=w5ls9Z8wjNY
+<br>http://blog.yhat.com/posts/random-forests-in-python.html
 <br> <h1>R</H1>
 https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/
   
