@@ -77,3 +77,5 @@ https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/
 <h3>Python Validation </h3>
 <br>http://scikit-learn.org/stable/modules/model_evaluation.html
 <br>http://scikit-learn.org/stable/auto_examples/feature_selection/plot_permutation_test_for_classification.html#sphx-glr-auto-examples-feature-selection-plot-permutation-test-for-classification-py  
+AWS 
+https://docs.aws.amazon.com/dlami/latest/devguide/tutorials.html  
