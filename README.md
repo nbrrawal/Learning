@@ -90,3 +90,4 @@ ai website
 <br>https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
 http://mathworld.wolfram.com/LeastSquaresFitting.html
 http://statpages.info/javasta4.html
+https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
