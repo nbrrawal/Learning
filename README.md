@@ -88,6 +88,7 @@ ai website
 <br>https://becominghuman.ai/stats-models-vs-sklearn-for-linear-regression-f19df95ad99b
 <br>https://www.statsmodels.org/dev/examples/notebooks/generated/ols.html
 <br>https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
-http://mathworld.wolfram.com/LeastSquaresFitting.html
-http://statpages.info/javasta4.html
-https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
+<br>http://mathworld.wolfram.com/LeastSquaresFitting.html
+<br>http://statpages.info/javasta4.html
+<br>https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
+<br>https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
