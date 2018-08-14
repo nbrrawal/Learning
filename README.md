@@ -80,3 +80,4 @@ https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/
 AWS 
 https://docs.aws.amazon.com/dlami/latest/devguide/tutorials.html  
 https://github.com/linrongc/youtube-8m/blob/master/eccv2018submission.pdf
+https://blog.datarobot.com/ordinary-least-squares-in-python
