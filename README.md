@@ -81,3 +81,9 @@ AWS
 https://docs.aws.amazon.com/dlami/latest/devguide/tutorials.html  
 https://github.com/linrongc/youtube-8m/blob/master/eccv2018submission.pdf
 https://blog.datarobot.com/ordinary-least-squares-in-python
+OLS non-linear curve but linear in parameters
+https://www.statsmodels.org/dev/example_formulas.html
+ai website 
+https://becominghuman.ai/
+  https://becominghuman.ai/stats-models-vs-sklearn-for-linear-regression-f19df95ad99b
+https://www.statsmodels.org/dev/examples/notebooks/generated/ols.html
