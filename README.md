@@ -92,3 +92,4 @@ AWS
 <br>http://statpages.info/javasta4.html
 <br>https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
 <br>https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
+https://docs.scipy.org/doc/scipy-0.15.1/reference/generated/scipy.stats.linregress.html
