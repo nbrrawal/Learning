@@ -73,17 +73,17 @@ Mohd Qahtani Humourouse
 <br>https://www.youtube.com/watch?v=w5ls9Z8wjNY
 <br>http://blog.yhat.com/posts/random-forests-in-python.html
 <br> <h1>R</H1>
-https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/
+<br>https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/
 <h3>Python Validation </h3>
 <br>http://scikit-learn.org/stable/modules/model_evaluation.html
 <br>http://scikit-learn.org/stable/auto_examples/feature_selection/plot_permutation_test_for_classification.html#sphx-glr-auto-examples-feature-selection-plot-permutation-test-for-classification-py  
 AWS 
-https://docs.aws.amazon.com/dlami/latest/devguide/tutorials.html  
-https://github.com/linrongc/youtube-8m/blob/master/eccv2018submission.pdf
-https://blog.datarobot.com/ordinary-least-squares-in-python
-OLS non-linear curve but linear in parameters
-https://www.statsmodels.org/dev/example_formulas.html
-ai website 
+<br>https://docs.aws.amazon.com/dlami/latest/devguide/tutorials.html  
+<br>https://github.com/linrongc/youtube-8m/blob/master/eccv2018submission.pdf
+<br>https://blog.datarobot.com/ordinary-least-squares-in-python
+<br>OLS non-linear curve but linear in parameters
+<br>https://www.statsmodels.org/dev/example_formulas.html
+<br>ai website 
 <br>https://becominghuman.ai/
 <br>https://becominghuman.ai/stats-models-vs-sklearn-for-linear-regression-f19df95ad99b
 <br>https://www.statsmodels.org/dev/examples/notebooks/generated/ols.html
