@@ -84,6 +84,7 @@ https://blog.datarobot.com/ordinary-least-squares-in-python
 OLS non-linear curve but linear in parameters
 https://www.statsmodels.org/dev/example_formulas.html
 ai website 
-https://becominghuman.ai/
-  https://becominghuman.ai/stats-models-vs-sklearn-for-linear-regression-f19df95ad99b
-https://www.statsmodels.org/dev/examples/notebooks/generated/ols.html
+<br>https://becominghuman.ai/
+<br>https://becominghuman.ai/stats-models-vs-sklearn-for-linear-regression-f19df95ad99b
+<br>https://www.statsmodels.org/dev/examples/notebooks/generated/ols.html
+<br>https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
