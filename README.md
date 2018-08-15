@@ -18,7 +18,7 @@ https://stat.mit.edu/<br>
 Titanic dataset <br>
 Global commodity  trade statistics<br>
 Home Credit Default Comp <br>
-Analytics Mag Competition 
+<br>Analytics Mag Competition 
 <br>https://towardsdatascience.com/newbies-guide-to-deep-learning-6bf601c5a98e
 <br>https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568
 <br>http://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection.html#sphx-glr-auto-examples-feature-selection-plot-feature-selection-py
@@ -29,13 +29,13 @@ Analytics Mag Competition
 <br>https://www.codechef.com/problems/challenge
 <br>https://www.kaggle.com/rtatman/the-5-day-regression-challenge
 <br>https://leetcode.com/
-<br>Kaggle Live youtube channel 
+<br>Kaggle Live youtube channel
 <br>https://www.youtube.com/playlist?list=PLqFaTIg4myu9f21aM1POYVeoaHbFf1hMc
 <br>Deep Belief Networks
 <br>https://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/
 <br>http://deeplearning.net/tutorial/DBN.html
 <br>https://github.com/opencv/opencv
-<br>Hybrid Monte Carlo Sampling 
+<br>Hybrid Monte Carlo Sampling
 <br>http://deeplearning.net/tutorial/hmc.html
 <br>http://songhuiming.github.io/pages/2018/05/05/credit-card-fraud-detection-imbalanced-data-modeling-part-i-logistic-regression/
 <br>http://songhuiming.github.io/pages/2016/07/12/variable-selection-in-python/
@@ -53,7 +53,7 @@ Analytics Mag Competition
 <br><b>tensor flow </b>
 <br>https://www.youtube.com/watch?v=oYbVFhK_olY&list=PLSPWNkAMSvv5DKeSVDbEbUKSsK4Z-GgiP
 <br>https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-6-feature-engineering-and-feature-selection-8b94f870706a
-<br><b> Siraj Rawal tutorial </b> 
+<br><b> Siraj Rawal tutorial </b>
 https://github.com/llSourcell/logistic_regression_newtons_method
 <br><b> Kaggle Participator  and mathhs tutorials
 <br>https://ayearofai.com/rohan-6-follow-up-statistical-interpretation-of-logistic-regression-e78de3b4d938<br>
@@ -77,13 +77,13 @@ Mohd Qahtani Humourouse
 <h3>Python Validation </h3>
 <br>http://scikit-learn.org/stable/modules/model_evaluation.html
 <br>http://scikit-learn.org/stable/auto_examples/feature_selection/plot_permutation_test_for_classification.html#sphx-glr-auto-examples-feature-selection-plot-permutation-test-for-classification-py  
-AWS 
+AWS
 <br>https://docs.aws.amazon.com/dlami/latest/devguide/tutorials.html  
 <br>https://github.com/linrongc/youtube-8m/blob/master/eccv2018submission.pdf
 <br>https://blog.datarobot.com/ordinary-least-squares-in-python
 <br>OLS non-linear curve but linear in parameters
 <br>https://www.statsmodels.org/dev/example_formulas.html
-<br>ai website 
+<br>ai website
 <br>https://becominghuman.ai/
 <br>https://becominghuman.ai/stats-models-vs-sklearn-for-linear-regression-f19df95ad99b
 <br>https://www.statsmodels.org/dev/examples/notebooks/generated/ols.html
