@@ -94,3 +94,4 @@ AWS
 <br>https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
 <br>https://docs.scipy.org/doc/scipy-0.15.1/reference/generated/scipy.stats.linregress.html
 <br>https://stackoverflow.com/questions/23036866/scikit-learn-is-returning-coefficient-of-determination-r2-values-less-than-1/
+<br>https://www.datacamp.com/community/tutorials/random-forests-classifier-python#algorithm
