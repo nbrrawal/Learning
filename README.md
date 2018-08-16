@@ -96,3 +96,5 @@ AWS
 <br>https://stackoverflow.com/questions/23036866/scikit-learn-is-returning-coefficient-of-determination-r2-values-less-than-1/
 <br>https://www.datacamp.com/community/tutorials/random-forests-classifier-python#algorithm
 <br>https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50
+Fractal Curve 
+<br>https://math.stackexchange.com/questions/1428871/is-it-possible-to-plot-a-graph-of-any-shape
