@@ -102,4 +102,5 @@ AWS
 <br>https://math.stackexchange.com/questions/54506/is-this-batman-equation-for-real
 <br>http://www.wolframalpha.com/input/?i=batman+equation
 <br>https://github.com/zaidalyafeai/zaidalyafeai.github.io/tree/master/pix2pix
-https://plus.maths.org/content/os/issue6/turner2/index
+<br>https://plus.maths.org/content/os/issue6/turner2/index
+<br>https://fractalfoundation.org/resources/fractivities/menger-cubes/
