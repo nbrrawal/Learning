@@ -104,3 +104,4 @@ AWS
 <br>https://github.com/zaidalyafeai/zaidalyafeai.github.io/tree/master/pix2pix
 <br>https://plus.maths.org/content/os/issue6/turner2/index
 <br>https://fractalfoundation.org/resources/fractivities/menger-cubes/
+<br>http://www.michaeljgrogan.com/statsmodels-sklearn-linear-regression/
