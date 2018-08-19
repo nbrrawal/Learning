@@ -83,7 +83,7 @@ AWS
 <br>https://blog.datarobot.com/ordinary-least-squares-in-python
 <br>OLS non-linear curve but linear in parameters
 <br>https://www.statsmodels.org/dev/example_formulas.html
-<br>ai website
+<br>AI website
 <br>https://becominghuman.ai/
 <br>https://becominghuman.ai/stats-models-vs-sklearn-for-linear-regression-f19df95ad99b
 <br>https://www.statsmodels.org/dev/examples/notebooks/generated/ols.html
