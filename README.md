@@ -107,3 +107,4 @@ AWS
 <br>http://www.datasciencemadesimple.com/rank-dataframe-python-pandas-min-max-dense-rank-group/
 <br>https://www.ritchieng.com/pandas-changing-datatype/
 <br>https://cyberhelp.sesync.org/data-manipulation-in-R-lesson/2016/07/26/#solution-1
+<br>https://www.w3resource.com/python-exercises/python-basic-exercise-14.php
