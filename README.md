@@ -1,14 +1,14 @@
 <b># Learning</b>
 <br>
 Mathematics machine learning Videos <br>
-https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/<br>
-https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning<br>
-https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
-http://www.fast.ai/<br>
-http://course.fast.ai/<br>
-http://course.fast.ai/part2.html<br>
-https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning<br>
-https://www.xlwings.org/
+<br>https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/
+<br>https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning
+<br>https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
+<br>http://www.fast.ai/
+<br>http://course.fast.ai
+<<br>http://course.fast.ai/part2.html
+<br>https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning
+<br>https://www.xlwings.org/
 https://www.kaggle.com/codename007/home-credit-complete-eda-feature-importance<br>
 https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction<br>
 https://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/<br>
