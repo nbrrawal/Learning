@@ -1,22 +1,21 @@
 <b># Learning</b>
-<br>
 Mathematics machine learning Videos <br>
 <br>https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/
 <br>https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning
 <br>https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
 <br>http://www.fast.ai/
 <br>http://course.fast.ai
-<<br>http://course.fast.ai/part2.html
+<br>http://course.fast.ai/part2.html
 <br>https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning
 <br>https://www.xlwings.org/
-https://www.kaggle.com/codename007/home-credit-complete-eda-feature-importance<br>
-https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction<br>
-https://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/<br>
-http://www.bogotobogo.com/python/scikit-learn/Artificial-Neural-Network-ANN-1-Introduction.php<br>
-https://stat.mit.edu/<br>
-<b>#Practice</b> <br>
-Titanic dataset <br>
-Global commodity  trade statistics<br>
+<br>https://www.kaggle.com/codename007/home-credit-complete-eda-feature-importance 
+<br>https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction<br>
+<br>https://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/<br>
+<br>http://www.bogotobogo.com/python/scikit-learn/Artificial-Neural-Network-ANN-1-Introduction.php<br>
+<br>https://stat.mit.edu
+<br><b>#Practice</b> 
+<br>Titanic dataset 
+<br>Global commodity  trade statistics
 Home Credit Default Comp <br>
 <br>Analytics Mag Competition 
 <br>https://towardsdatascience.com/newbies-guide-to-deep-learning-6bf601c5a98e
@@ -105,3 +104,4 @@ AWS
 <br>https://plus.maths.org/content/os/issue6/turner2/index
 <br>https://fractalfoundation.org/resources/fractivities/menger-cubes/
 <br>http://www.michaeljgrogan.com/statsmodels-sklearn-linear-regression/
+<br>http://www.datasciencemadesimple.com/rank-dataframe-python-pandas-min-max-dense-rank-group/
