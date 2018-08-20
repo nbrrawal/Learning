@@ -105,3 +105,4 @@ AWS
 <br>https://fractalfoundation.org/resources/fractivities/menger-cubes/
 <br>http://www.michaeljgrogan.com/statsmodels-sklearn-linear-regression/
 <br>http://www.datasciencemadesimple.com/rank-dataframe-python-pandas-min-max-dense-rank-group/
+<br>https://www.ritchieng.com/pandas-changing-datatype/
