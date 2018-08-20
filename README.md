@@ -9,14 +9,14 @@ Mathematics machine learning Videos <br>
 <br>https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning
 <br>https://www.xlwings.org/
 <br>https://www.kaggle.com/codename007/home-credit-complete-eda-feature-importance 
-<br>https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction<br>
-<br>https://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/<br>
-<br>http://www.bogotobogo.com/python/scikit-learn/Artificial-Neural-Network-ANN-1-Introduction.php<br>
+<br>https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction 
+<br>https://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/ 
+<br>http://www.bogotobogo.com/python/scikit-learn/Artificial-Neural-Network-ANN-1-Introduction.php 
 <br>https://stat.mit.edu
 <br><b>#Practice</b> 
 <br>Titanic dataset 
 <br>Global commodity  trade statistics
-Home Credit Default Comp <br>
+<br>Home Credit Default Comp 
 <br>Analytics Mag Competition 
 <br>https://towardsdatascience.com/newbies-guide-to-deep-learning-6bf601c5a98e
 <br>https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568
