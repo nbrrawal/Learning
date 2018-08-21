@@ -1,5 +1,5 @@
 <b># Learning</b>
-Mathematics machine learning Videos <br>
+<br>Mathematics machine learning Videos 
 <br>https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/
 <br>https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning
 <br>https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
@@ -43,11 +43,11 @@ Mathematics machine learning Videos <br>
 <br>https://www.kaggle.com/dansbecker/your-first-scikit-learn-model/notebook
 <br>https://www.cse.iitk.ac.in/users/sigml/lec/DeepLearningLib.pdf
 <br><b>algebra</b>
-<br>http://tutorial.math.lamar.edu/Problems/Alg/Factoring.aspx<br>
-<br>https://www.wyzant.com/resources/lessons/math/calculus<br>
+<br>http://tutorial.math.lamar.edu/Problems/Alg/Factoring.aspx 
+<br>https://www.wyzant.com/resources/lessons/math/calculus 
 <br><b>data repo</b>
-<br>http://archive.ics.uci.edu/ml/index.php<br>
-<br>https://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/<br>
+<br>http://archive.ics.uci.edu/ml/index.php 
+<br>https://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/ 
 <br>https://stepupanalytics.com/feature-selection-for-machine-learning-in-python/
 <br><b>tensor flow </b>
 <br>https://www.youtube.com/watch?v=oYbVFhK_olY&list=PLSPWNkAMSvv5DKeSVDbEbUKSsK4Z-GgiP
@@ -55,17 +55,17 @@ Mathematics machine learning Videos <br>
 <br><b> Siraj Rawal tutorial </b>
 https://github.com/llSourcell/logistic_regression_newtons_method
 <br><b> Kaggle Participator  and mathhs tutorials
-<br>https://ayearofai.com/rohan-6-follow-up-statistical-interpretation-of-logistic-regression-e78de3b4d938<br>
-<br>https://olgabelitskaya.github.io/index.html<br>
-<br>https://github.com/udacity/machine-learning<br>
-<br>https://github.com/lazyprogrammer/machine_learning_examples/blob/master/logistic_regression_class/logistic1.py<br>
+<br>https://ayearofai.com/rohan-6-follow-up-statistical-interpretation-of-logistic-regression-e78de3b4d938 
+<br>https://olgabelitskaya.github.io/index.html
+<br>https://github.com/udacity/machine-learning
+<br>https://github.com/lazyprogrammer/machine_learning_examples/blob/master/logistic_regression_class/logistic1.py 
 <br> https://github.com/IdoZehori/Credit_Score/blob/master/Credit%20score.ipynb
 <br> https://dziganto.github.io/cross-validation/data%20science/machine%20learning/model%20tuning/python/Model-Tuning-with-Validation-and-Cross-Validation/
-  <br> create github website
+<br> create github website
 <br>https://amber.rbind.io/blog/2016/12/19/creatingsite/#github
 <br>http://www.statsmodels.org/stable/examples/index.html#regression
 <br> https://www.google.com/search?q=toastmasters+training+pdf&oq=toastmasters+training+pdf+&aqs=chrome..69i57.9823j1j7&sourceid=chrome&ie=UTF-8
-Python top libraries link <br>
+<br>Python top libraries link 
   https://www.programcreek.com/python/
 <br><b>Toastmasters</b>
 Mohd Qahtani Humourouse
@@ -109,3 +109,4 @@ AWS
 <br>https://cyberhelp.sesync.org/data-manipulation-in-R-lesson/2016/07/26/#solution-1
 <br>https://www.w3resource.com/python-exercises/python-basic-exercise-14.php
 <br>https://github.com/fastai/fast_progress
+<br>https://datamarket.com/data/list/?q=provider:tsdl
