@@ -66,9 +66,9 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>http://www.statsmodels.org/stable/examples/index.html#regression
 <br> https://www.google.com/search?q=toastmasters+training+pdf&oq=toastmasters+training+pdf+&aqs=chrome..69i57.9823j1j7&sourceid=chrome&ie=UTF-8
 <br>Python top libraries link 
-  https://www.programcreek.com/python/
+<br>https://www.programcreek.com/python/
 <br><b>Toastmasters</b>
-Mohd Qahtani Humourouse
+<br>Mohd Qahtani Humourouse
 <br>https://www.youtube.com/watch?v=w5ls9Z8wjNY
 <br>http://blog.yhat.com/posts/random-forests-in-python.html
 <br> <h1>R</H1>
