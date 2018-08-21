@@ -54,7 +54,7 @@
 <br>https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-6-feature-engineering-and-feature-selection-8b94f870706a
 <br><b> Siraj Rawal tutorial </b>
 https://github.com/llSourcell/logistic_regression_newtons_method
-<br><b> Kaggle Participator  and mathhs tutorials
+<br><b> Kaggle Participator  and mathhs tutorials</b>
 <br>https://ayearofai.com/rohan-6-follow-up-statistical-interpretation-of-logistic-regression-e78de3b4d938 
 <br>https://olgabelitskaya.github.io/index.html
 <br>https://github.com/udacity/machine-learning
@@ -95,7 +95,7 @@ AWS
 <br>https://stackoverflow.com/questions/23036866/scikit-learn-is-returning-coefficient-of-determination-r2-values-less-than-1/
 <br>https://www.datacamp.com/community/tutorials/random-forests-classifier-python#algorithm
 <br>https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50
-<br><h4>Fractal Curve </h4>
+<br><h4>Fractal Curve</h4>
 <br/>https://fractalfoundation.org/resources/fractivities/  
 <br>https://math.stackexchange.com/questions/1428871/is-it-possible-to-plot-a-graph-of-any-shape
 <br>https://math.stackexchange.com/questions/54506/is-this-batman-equation-for-real
