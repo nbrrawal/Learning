@@ -116,3 +116,5 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>Python machine learning and Python tutorial 
 <br>https://www.dataschool.io/best-practices-with-pandas/
 <br>https://github.com/susanli2016/Machine-Learning-with-Python
+<br>NASA Mars Rover
+https://opensourcerover.jpl.nasa.gov/#!/home
