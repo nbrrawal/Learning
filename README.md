@@ -127,3 +127,8 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://scipy-cookbook.readthedocs.io/items/FittingData.html
 <br>https://www.ritchieng.com/pandas-inplace-parameter/
 <br>http://www.datascienceassn.org/sites/default/files/Machine%20Learning%20Resource%20Guide%202014.pdf
+https://www.ritchieng.com/machine-learning-evaluate-classification-model/
+https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/
+https://stackoverflow.com/questions/39163354/evaluating-logistic-regression-with-cross-validation
+https://www.quantinsti.com/blog/machine-learning-logistic-regression-python/
+  
