@@ -132,3 +132,7 @@ https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/
 https://stackoverflow.com/questions/39163354/evaluating-logistic-regression-with-cross-validation
 https://www.quantinsti.com/blog/machine-learning-logistic-regression-python/
   
+https://www.datascience.com/blog/7-methods-to-fit-linear-model-python
+https://stackoverflow.com/questions/26951880/scikit-learn-linear-regression-how-to-get-coefficients-respective-features
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+http://www.alfredo.motta.name/cross-validation-done-wrong/
