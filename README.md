@@ -120,3 +120,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <BR>https://opensourcerover.jpl.nasa.gov/#!/home
 <BR> https://dziganto.github.io/data%20science/machine%20learning/model%20tuning/python/Model-Tuning-Train-Test-Split/
 <br>https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c
+<br>https://medium.com/technomancy/the-math-required-for-machine-learning-af0d90db3903
