@@ -114,4 +114,5 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>Machine Learning Notebooks and book 
 <br>https://github.com/rasbt/python-machine-learning-book
 <br>Python machine learning and Python tutorial 
-https://www.dataschool.io/best-practices-with-pandas/
+<br>https://www.dataschool.io/best-practices-with-pandas/
+<br>https://github.com/susanli2016/Machine-Learning-with-Python
