@@ -119,3 +119,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>NASA Mars Rover
 <BR>https://opensourcerover.jpl.nasa.gov/#!/home
 <BR> https://dziganto.github.io/data%20science/machine%20learning/model%20tuning/python/Model-Tuning-Train-Test-Split/
+<br>https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c
