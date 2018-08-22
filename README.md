@@ -136,3 +136,6 @@ https://www.datascience.com/blog/7-methods-to-fit-linear-model-python
 https://stackoverflow.com/questions/26951880/scikit-learn-linear-regression-how-to-get-coefficients-respective-features
 https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 http://www.alfredo.motta.name/cross-validation-done-wrong/
+https://machinelearningmastery.com/estimate-performance-machine-learning-algorithms-weka/
+https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html
+https://lmfit.github.io/lmfit-py/model.html
