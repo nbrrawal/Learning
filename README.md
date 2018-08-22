@@ -126,3 +126,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://docs.scipy.org/doc/scipy-0.13.0/scipy-ref.pdf
 <br>https://scipy-cookbook.readthedocs.io/items/FittingData.html
 <br>https://www.ritchieng.com/pandas-inplace-parameter/
+<br>http://www.datascienceassn.org/sites/default/files/Machine%20Learning%20Resource%20Guide%202014.pdf
