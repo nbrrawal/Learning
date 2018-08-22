@@ -111,3 +111,5 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://www.w3resource.com/python-exercises/python-basic-exercise-14.php
 <br>https://github.com/fastai/fast_progress
 <br>https://datamarket.com/data/list/?q=provider:tsdl
+Machine Learning Notebooks and book 
+https://github.com/rasbt/python-machine-learning-book
