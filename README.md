@@ -117,4 +117,5 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://www.dataschool.io/best-practices-with-pandas/
 <br>https://github.com/susanli2016/Machine-Learning-with-Python
 <br>NASA Mars Rover
-https://opensourcerover.jpl.nasa.gov/#!/home
+<BR>https://opensourcerover.jpl.nasa.gov/#!/home
+<BR> https://dziganto.github.io/data%20science/machine%20learning/model%20tuning/python/Model-Tuning-Train-Test-Split/
