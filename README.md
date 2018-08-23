@@ -147,3 +147,7 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://www.youtube.com/channel/UCGByJSZBR_kcr4Qid4_iB3Q?v=v8PPc0-uCa0
 <br>https://www.youtube.com/user/mbernico/videos
 <br>http://dept.stat.lsa.umich.edu/~kshedden/Python-Workshop/nhanes_logistic_regression.html
+<br>https://github.com/Mashimo/datascience/blob/master/01-Regression/LinearRegression.ipynb
+<br>https://github.com/Mashimo/datascience/blob/master/01-Regression/LinearRegression.ipynb
+<br>https://mashimo.wordpress.com/2017/06/17/an-introduction-to-logistic-regression/
+ 
