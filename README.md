@@ -145,3 +145,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://www.statsmodels.org/dev/examples/notebooks/generated/predict.html
 <br>https://stats.stackexchange.com/questions/203740/logistic-regression-scikit-learn-vs-statsmodels
 <br>https://www.youtube.com/channel/UCGByJSZBR_kcr4Qid4_iB3Q?v=v8PPc0-uCa0
+<br>https://www.youtube.com/user/mbernico/videos
