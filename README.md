@@ -142,3 +142,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://github.com/anderscui/ml/blob/master/logistic_regression/intro.R
 <br>https://statinfer.com/204-4-1-model-section-and-cross-validation/
 <br>https://www.dummies.com/programming/big-data/data-science/using-logistic-regression-in-python-for-data-science/
+<br>https://www.statsmodels.org/dev/examples/notebooks/generated/predict.html
