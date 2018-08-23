@@ -75,7 +75,7 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br> <h1>R</h1>
 <br><h6>https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/
 <br>http://www.datasciencemadesimple.com/join-in-r-merge-in-r/
-<br><h4>Python Validation </h4>
+<br> Python Validation  
 <br>http://scikit-learn.org/stable/modules/model_evaluation.html
 <br>http://scikit-learn.org/stable/auto_examples/feature_selection/plot_permutation_test_for_classification.html#sphx-glr-auto-examples-feature-selection-plot-permutation-test-for-classification-py  
 <br>AWS
@@ -97,7 +97,7 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://stackoverflow.com/questions/23036866/scikit-learn-is-returning-coefficient-of-determination-r2-values-less-than-1/
 <br>https://www.datacamp.com/community/tutorials/random-forests-classifier-python#algorithm
 <br>https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50
-<br><h4>Fractal Curve</h4>
+<br> Fractal Curve 
 <br/>https://fractalfoundation.org/resources/fractivities/  
 <br>https://math.stackexchange.com/questions/1428871/is-it-possible-to-plot-a-graph-of-any-shape
 <br>https://math.stackexchange.com/questions/54506/is-this-batman-equation-for-real
