@@ -72,10 +72,10 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>Mohd Qahtani Humourouse
 <br>https://www.youtube.com/watch?v=w5ls9Z8wjNY
 <br>http://blog.yhat.com/posts/random-forests-in-python.html
-<br> <h1>R</h1><h7>
-<br>https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/
+<br> <h1>R</h1>
+<br><h6>https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/
 <br>http://www.datasciencemadesimple.com/join-in-r-merge-in-r/
-<br><h3>Python Validation </h3>
+<br><h4>Python Validation </h4>
 <br>http://scikit-learn.org/stable/modules/model_evaluation.html
 <br>http://scikit-learn.org/stable/auto_examples/feature_selection/plot_permutation_test_for_classification.html#sphx-glr-auto-examples-feature-selection-plot-permutation-test-for-classification-py  
 <br>AWS
