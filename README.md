@@ -139,3 +139,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://machinelearningmastery.com/estimate-performance-machine-learning-algorithms-weka/
 <br>https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html
 <br>https://lmfit.github.io/lmfit-py/model.html
+<br>https://github.com/anderscui/ml/blob/master/logistic_regression/intro.R
