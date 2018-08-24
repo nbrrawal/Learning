@@ -150,4 +150,5 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://github.com/Mashimo/datascience/blob/master/01-Regression/LinearRegression.ipynb
 <br>https://github.com/Mashimo/datascience/blob/master/01-Regression/LinearRegression.ipynb
 <br>https://mashimo.wordpress.com/2017/06/17/an-introduction-to-logistic-regression/
- <br>https://www.dataschool.io/best-practices-with-pandas/
+<br>https://www.dataschool.io/best-practices-with-pandas/
+<br>https://www.dataschool.io/linear-regression-and-regularization-in-r/
