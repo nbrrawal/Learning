@@ -152,3 +152,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://mashimo.wordpress.com/2017/06/17/an-introduction-to-logistic-regression/
 <br>https://www.dataschool.io/best-practices-with-pandas/
 <br>https://www.dataschool.io/linear-regression-and-regularization-in-r/
+<br>https://medium.com/@martinpella/logistic-regression-from-scratch-in-python-124c5636b8ac
