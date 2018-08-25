@@ -154,3 +154,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://www.dataschool.io/linear-regression-and-regularization-in-r/
 <br>https://medium.com/@martinpella/logistic-regression-from-scratch-in-python-124c5636b8ac
 <br>https://repl.it/repls/HarmfulFirsthandSnake
+<br>https://github.com/nishant483/Coursera-ML-python
