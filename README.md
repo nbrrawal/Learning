@@ -157,3 +157,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://github.com/nishant483/Coursera-ML-python
 <BR>http://dataaspirant.com/2017/04/15/implement-logistic-regression-model-python-binary-classification/
 <br>https://analyticsdataexploration.com/principal-component-analysis-in-r/
+<br>https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
