@@ -155,3 +155,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://medium.com/@martinpella/logistic-regression-from-scratch-in-python-124c5636b8ac
 <br>https://repl.it/repls/HarmfulFirsthandSnake
 <br>https://github.com/nishant483/Coursera-ML-python
+<BR>http://dataaspirant.com/2017/04/15/implement-logistic-regression-model-python-binary-classification/
