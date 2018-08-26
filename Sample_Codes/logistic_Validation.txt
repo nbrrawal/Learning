@@ -1,0 +1,38 @@
+#[1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0]
+#accuracy = 90.625%
+#Your probability = 25.766021594464977%
+
+import pandas as pd
+import numpy as np 
+import matplotlib.pyplot as plt
+%matplotlib inline
+import statsmodels.formula.api as sm
+from sklearn.model_selection import train_test_split
+
+data = pd.read_csv("E:\\Dev\\testing\\rawdata.txt", header=None, 
+                   names=['Exam1', 'Exam2', 'Admitted'])
+X = data.copy() # ou training data
+y = X.Admitted.copy() # copy “y” column values out
+X.drop(['Admitted'], axis=1, inplace=True) # then, drop y column
+# manually add the intercept
+X['intercept'] = 1.0  # so we don't need to use sm.add_constant every time
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.20, random_state=42)
+model = sm.Logit(y_train, X_train)
+result = model.fit()
+print("old paramters :\n" + str(list(result.params)))
+#New parametrs supplied
+mdict = { 'Exam1':0, 'Exam2':0, 'intercept':0 }
+result.params = mdict
+print("New parameters: \n"+str(result.params))
+
+def logitPredict(modelParams, X, threshold):  
+    probabilities = modelParams.predict(X)
+    return [1 if x >= threshold else 0 for x in probabilities]
+
+predictions = logitPredict(result, X_test, .5)
+print(predictions)
+accuracy = np.mean(predictions == y_test)
+print ('accuracy = {0}%'.format(accuracy*100)  )
+myExams = pd.DataFrame({'Exam1': [40.], 'Exam2': [78.], 'intercept': [1.]})
+myExams
+print ('Your probability = {0}%'.format(result.predict(myExams)[0]*100))
