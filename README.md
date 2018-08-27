@@ -163,3 +163,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://stackoverflow.com/questions/29377109/sklearn-linearregression-predict-issue
 <br>https://cyberhulk.net/learn-machine-learning-matrix-features-dependent-variables-factor/
 <br>http://www.stephacking.com/set-dependent-variables-independent-variables-iloc-example-python/
+<br>https://medium.com/@martinpella/logistic-regression-from-scratch-in-python-124c5636b8ac
