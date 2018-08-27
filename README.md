@@ -161,4 +161,3 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://developers.google.com/machine-learning/crash-course/ml-intro
 <br>http://cs229.stanford.edu/syllabus.html
 <br>https://stackoverflow.com/questions/29377109/sklearn-linearregression-predict-issue
-<br>https://stackoverflow.com/questions/29377109/sklearn-linearregression-predict-issue
