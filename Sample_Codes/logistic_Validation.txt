@@ -36,3 +36,29 @@ print ('accuracy = {0}%'.format(accuracy*100)  )
 myExams = pd.DataFrame({'Exam1': [40.], 'Exam2': [78.], 'intercept': [1.]})
 myExams
 print ('Your probability = {0}%'.format(result.predict(myExams)[0]*100))
+###################################################################
+
+
+# Python code to demonstrate matrix operations
+# multiply() and dot()
+
+# importing numpy for matrix operations
+import numpy as np
+
+# initializing matrices
+x = numpy.array([[.45, .343, .2234], [.231, .542, .55]])
+y = numpy.array([.8, -.23,.23])
+y = y.T
+# using multiply() to multiply matrices element wise
+print ("The element wise multiplication of matrix is : ")
+print (numpy.multiply(x,y))
+# using dot() to multiply matrices
+print ("The product of matrices is : ")
+print (np.dot(x,y))
+
+def fn_sigmoid(nmbr):
+    return 1/(1 + np.exp(- nmbr))
+print("probs")
+
+probabilities = fn_sigmoid(numpy.dot(x,y))
+print( [1 if x >= .5 else 0 for x in probabilities]  )
