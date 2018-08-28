@@ -169,4 +169,5 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
 <br>https://www.kaggle.com/c/planet-understanding-the-amazon-from-space
 <br>https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/classification?ex=1 
- </font>
+<br>http://nbviewer.jupyter.org/github/justmarkham/python-reference/blob/master/reference.ipynb
+</font>
