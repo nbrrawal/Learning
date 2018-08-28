@@ -178,3 +178,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://www.digitalocean.com/community/tutorials/how-to-build-a-machine-learning-classifier-in-python-with-scikit-learn
 <br>https://statinfer.com/204-4-2-calculating-sensitivity-and-specificity-in-python/
 <br>https://www.machinelearningplus.com/machine-learning/complete-introduction-linear-regression-r/
+<br>https://stackoverflow.com/questions/893657/how-do-i-calculate-r-squared-using-python-and-numpy
