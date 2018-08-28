@@ -1,7 +1,7 @@
 
 <b># Learning</b>
 <br>Mathematics machine learning Videos 
-<p style="font-size:40px">test https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/</p>
+<br> https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/ 
 <br>https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning
 <br>https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
 <br>http://www.fast.ai/
