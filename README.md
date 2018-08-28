@@ -166,3 +166,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://medium.com/@martinpella/logistic-regression-from-scratch-in-python-124c5636b8ac
 <br>http://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html
 <br>https://www.python-course.eu/matrix_arithmetic.php
+<br>https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
