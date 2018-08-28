@@ -174,4 +174,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>http://thestatsgeek.com/2014/02/16/the-hosmer-lemeshow-goodness-of-fit-test-for-logistic-regression/
 <br>https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/
 <br>https://kennis-research.shinyapps.io/ROC-Curves/
-</font>
+<br>https://datamize.wordpress.com/2015/01/24/how-to-plot-a-roc-curve-in-scikit-learn/</font>
