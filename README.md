@@ -1,4 +1,4 @@
-<h6>
+<font size="3">
 <b># Learning</b>
 <br>Mathematics machine learning Videos 
 <br>https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/
@@ -167,3 +167,6 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>http://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html
 <br>https://www.python-course.eu/matrix_arithmetic.php
 <br>https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
+<br>https://www.kaggle.com/c/planet-understanding-the-amazon-from-space
+ 
+ </font>
