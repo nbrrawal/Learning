@@ -175,3 +175,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/
 <br>https://kennis-research.shinyapps.io/ROC-Curves/
 <br>https://datamize.wordpress.com/2015/01/24/how-to-plot-a-roc-curve-in-scikit-learn/</font>
+<br>https://www.digitalocean.com/community/tutorials/how-to-build-a-machine-learning-classifier-in-python-with-scikit-learn
