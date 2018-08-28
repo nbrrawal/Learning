@@ -1,7 +1,7 @@
 
 <b># Learning</b>
 <br>Mathematics machine learning Videos 
-<font size="34"><br>https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/
+<p style="font-size:4px"><br>https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/
 <br>https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning
 <br>https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
 <br>http://www.fast.ai/
@@ -13,7 +13,7 @@
 <br>https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction 
 <br>https://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/ 
 <br>http://www.bogotobogo.com/python/scikit-learn/Artificial-Neural-Network-ANN-1-Introduction.php 
-<br>https://stat.mit.edu </font>
+<br>https://stat.mit.edu </p>
 <br><b>#Practice</b> 
 <br>Titanic dataset 
 <br>Global commodity  trade statistics
@@ -179,3 +179,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://statinfer.com/204-4-2-calculating-sensitivity-and-specificity-in-python/
 <br>https://www.machinelearningplus.com/machine-learning/complete-introduction-linear-regression-r/
 <br>https://stackoverflow.com/questions/893657/how-do-i-calculate-r-squared-using-python-and-numpy
+<br>https://stackoverflow.com/questions/42033720/python-sklearn-multiple-linear-regression-display-r-squared
