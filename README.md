@@ -1,7 +1,7 @@
 
 <b># Learning</b>
 <br>Mathematics machine learning Videos 
-<font size="6"><br>https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/
+<font size="8"><br>https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/
 <br>https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning
 <br>https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
 <br>http://www.fast.ai/
@@ -173,4 +173,5 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://stats.stackexchange.com/questions/145566/how-to-calculate-area-under-the-curve-auc-or-the-c-statistic-by-hand
 <br>http://thestatsgeek.com/2014/02/16/the-hosmer-lemeshow-goodness-of-fit-test-for-logistic-regression/
 <br>https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/
+<br>https://kennis-research.shinyapps.io/ROC-Curves/
 </font>
