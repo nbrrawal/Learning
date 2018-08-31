@@ -180,6 +180,7 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://stackoverflow.com/questions/893657/how-do-i-calculate-r-squared-using-python-and-numpy
 <br>https://stackoverflow.com/questions/42033720/python-sklearn-multiple-linear-regression-display-r-squared
 <br>https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv
-<BR>https://www.machinelearningplus.com/python/101-numpy-exercises-python/
-<BR>https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
- <BR>https://www.machinelearningplus.com/machine-learning/complete-introduction-linear-regression-r/
+<br>https://www.machinelearningplus.com/python/101-numpy-exercises-python/
+<br>https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
+<br>https://www.machinelearningplus.com/machine-learning/complete-introduction-linear-regression-r/
+<br>https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c
