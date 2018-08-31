@@ -192,3 +192,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://github.com/reiinakano/scikit-plot
 <br>https://scikit-plot.readthedocs.io/en/stable/Quickstart.html#installation 
 <br>http://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html
+<br>https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a
