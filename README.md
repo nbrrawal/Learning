@@ -184,3 +184,10 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
 <br>https://www.machinelearningplus.com/machine-learning/complete-introduction-linear-regression-r/
 <br>https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c
+<br>http://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html
+<br> http://localhost:8888/notebooks/sandbox/plot_roc_crossval.ipynb
+<br>http://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html#sphx-glr-auto-examples-model-selection-plot-roc-py
+<br>http://scikit-learn.org/stable/auto_examples/model_selection/plot_roc_crossval.html#sphx-glr-auto-examples-model-selection-plot-roc-crossval-py
+<br>http://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html#sphx-glr-auto-examples-model-selection-plot-roc-py
+<br>https://github.com/reiinakano/scikit-plot
+ 
