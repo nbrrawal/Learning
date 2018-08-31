@@ -191,3 +191,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>http://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html#sphx-glr-auto-examples-model-selection-plot-roc-py
 <br>https://github.com/reiinakano/scikit-plot
 <br>https://scikit-plot.readthedocs.io/en/stable/Quickstart.html#installation 
+<br>http://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html
