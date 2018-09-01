@@ -122,7 +122,7 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c
 <br>https://medium.com/technomancy/the-math-required-for-machine-learning-af0d90db3903
 <br>https://medium.com/technomancy/the-blunt-guide-to-mathematically-rigorous-machine-learning-c53263d45c7b
-<br>http://www.physics.nyu.edu/pine/pymanual/html/chap8/chap8_fitting.html
+<br>http://www.physics.nyu.edu/pine/pymanual/html/chap8/chap8_fitting.html 
 <br>https://docs.scipy.org/doc/scipy-0.13.0/scipy-ref.pdf
 <br>https://scipy-cookbook.readthedocs.io/items/FittingData.html
 <br>https://www.ritchieng.com/pandas-inplace-parameter/
