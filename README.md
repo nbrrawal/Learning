@@ -196,3 +196,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>http://kenzotakahashi.github.io/k-nearest-neighbor-from-scratch-in-python.html
 <br>Random forest 
 <br>https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
+<br>https://www.codementor.io/agarrahul01/multiclass-classification-using-random-forest-on-scikit-learn-library-hkk4lwawu
