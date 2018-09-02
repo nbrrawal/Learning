@@ -71,7 +71,7 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>Mohd Qahtani Humourouse
 <br>https://www.youtube.com/watch?v=w5ls9Z8wjNY
 <br>http://blog.yhat.com/posts/random-forests-in-python.html
- <b>R</b>
+<B><b>R</b>
 <h6>https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/
 <br>http://www.datasciencemadesimple.com/join-in-r-merge-in-r/
 <br> Python Validation  
