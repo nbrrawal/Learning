@@ -1,4 +1,4 @@
-<b># Learning</b>
+<h6><b># Learning</b>
 <br>Mathematics machine learning Videos 
 <br> https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/ 
 <br>https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning
@@ -197,3 +197,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>Random forest 
 <br>https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
 <br>https://www.codementor.io/agarrahul01/multiclass-classification-using-random-forest-on-scikit-learn-library-hkk4lwawu
+<br>https://www.kaggle.com/c/home-credit-default-risk/discussion/64598
