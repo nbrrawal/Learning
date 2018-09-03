@@ -198,3 +198,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
 <br>https://www.codementor.io/agarrahul01/multiclass-classification-using-random-forest-on-scikit-learn-library-hkk4lwawu
 <br>https://www.kaggle.com/c/home-credit-default-risk/discussion/64598
+<br>https://www.kaggle.com/shelars1985/anomaly-detection-using-gaussian-distribution
