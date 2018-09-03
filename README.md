@@ -203,3 +203,6 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://en.wikipedia.org/wiki/Hyperparameter_optimization
 <br>https://www.digitalocean.com/community/tutorials/how-to-build-a-machine-learning-classifier-in-python-with-scikit-learn
 <br>https://hub.coursera-notebooks.org/user/nbiqmlfmrnabuyynwxuoff/notebooks/Reading%20materials/GBM_drop_tree.ipynb
+<br>http://scikit-learn.org/stable/user_guide.html
+<br>https://www.datasciencecentral.com/profiles/blogs/random-forests-explained-intuitively
+<br>https://www.analyticsvidhya.com/blog/2018/01/online-learning-guide-text-classification-vowpal-wabbit-vw/
