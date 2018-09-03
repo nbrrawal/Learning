@@ -200,4 +200,5 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://www.kaggle.com/c/home-credit-default-risk/discussion/64598
 <br>https://www.kaggle.com/shelars1985/anomaly-detection-using-gaussian-distribution
 <br>https://www.kaggle.com/willkoehrsen/intro-to-model-tuning-grid-and-random-search
->br>https://en.wikipedia.org/wiki/Hyperparameter_optimization
+<br>https://en.wikipedia.org/wiki/Hyperparameter_optimization
+<br>https://www.digitalocean.com/community/tutorials/how-to-build-a-machine-learning-classifier-in-python-with-scikit-learn
