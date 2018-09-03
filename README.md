@@ -206,3 +206,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>http://scikit-learn.org/stable/user_guide.html
 <br>https://www.datasciencecentral.com/profiles/blogs/random-forests-explained-intuitively
 <br>https://www.analyticsvidhya.com/blog/2018/01/online-learning-guide-text-classification-vowpal-wabbit-vw/
+<br>http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html
