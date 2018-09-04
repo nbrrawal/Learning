@@ -1,1 +1,2 @@
-
+https://mubaris.com/2017/09/28/linear-regression-from-scratch/
+https://machinelearningmastery.com/start-here/#statistical_methods
