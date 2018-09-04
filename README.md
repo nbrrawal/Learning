@@ -209,3 +209,4 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html
 <br>https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.60724&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
 <br>https://ai.google/research/teams/brain
+<br>http://contrib.scikit-learn.org/imbalanced-learn/stable/
