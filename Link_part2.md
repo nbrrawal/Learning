@@ -6,3 +6,4 @@
 <br>https://www.geeksforgeeks.org/linear-regression-python-implementation
 <br>https://www.geeksforgeeks.org/python-programming-language/#Machine%20Learning%20with%20Python
 <br>https://dreamtolearn.com/ryan/1001_datasets
+<br>https://colab.research.google.com/notebooks/gpu.ipynb#scrollTo=t9ALbbpmY9rm
