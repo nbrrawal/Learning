@@ -9,3 +9,7 @@
 <br>https://colab.research.google.com/notebooks/gpu.ipynb#scrollTo=t9ALbbpmY9rm
 {"username":"zenstat","key":"2b082b32f5aeba594633761f907c0179"}
 kaggle.json
+<br>Neural netwrok 
+<br>https://enlight.nyc/projects/neural-network/
+<br>dataset search 
+<br>https://toolbox.google.com/datasetsearch
