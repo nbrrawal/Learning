@@ -13,3 +13,4 @@ kaggle.json
 <br>https://enlight.nyc/projects/neural-network/
 <br>dataset search 
 <br>https://toolbox.google.com/datasetsearch
+<br>https://onlinecourses.science.psu.edu/stat857/node/215/
