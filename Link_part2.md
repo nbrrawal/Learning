@@ -15,3 +15,4 @@ kaggle.json
 <br>https://toolbox.google.com/datasetsearch
 <br>https://onlinecourses.science.psu.edu/stat857/node/215/
 <br>http://songhuiming.github.io/pages/2016/07/12/python-vs-sas/
+<BR>http://songhuiming.github.io/pages/2018/05/05/credit-card-fraud-detection-imbalanced-data-modeling-part-i-logistic-regression/
