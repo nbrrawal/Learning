@@ -17,3 +17,4 @@ kaggle.json
 <br>http://songhuiming.github.io/pages/2016/07/12/python-vs-sas/
 <br>http://songhuiming.github.io/pages/2018/05/05/credit-card-fraud-detection-imbalanced-data-modeling-part-i-logistic-regression/
 <br>http://nbviewer.jupyter.org/github/RandyBetancourt/PythonForSASUsers/tree/master/
+<br>http://onlinestatbook.com/2/index.html
