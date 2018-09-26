@@ -19,3 +19,6 @@ kaggle.json
 <br>http://nbviewer.jupyter.org/github/RandyBetancourt/PythonForSASUsers/tree/master/
 <br>http://onlinestatbook.com/2/index.html
 https://www.datafriends.rocks/single-post/Motivation-for-Data-Science
+
+kaggle comp house price approach code 
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques/discussion/23409
