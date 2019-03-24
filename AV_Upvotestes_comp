@@ -32,7 +32,7 @@ x_val = sc_X.transform(x_val)
 poly_reg = PolynomialFeatures(degree = 4,interaction_only=False, include_bias=True)
 X_poly = poly_reg.fit_transform(x_train)
 poly_reg.fit(x_train, y_train)
-lin_reg_1 = linear_model.LassoLars(alpha=0.021,max_iter=150)
+lin_reg_1 = linear_model.LassoLars(alpha=0.0208,max_iter=160)#0.903391895371656
 lin_reg_1.fit(X_poly, y_train)
 
 # predicitng 
