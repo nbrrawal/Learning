@@ -1,0 +1,34 @@
+
+select * from dbo.account_transact a --where a.acct_nbr = '101'
+go 
+select * from dbo.account_fraud a --where a.account_nbr = '101'
+go 
+
+select a.*, b.* 
+				,(case when a.amount>2000 then 1 else 0 end) as derived_flag 
+				from dbo.account_transact a 
+				left join 
+				dbo.account_fraud b on 
+				a.acct_nbr = b.account_nbr  and 
+				a.txn_date = b.trx_date 
+				where b.account_nbr is not null 
+				
+Select	fraud_ind
+			,	derived_flag
+			,	count(*) as total_count  from 
+		(
+			select a.*, b.*
+				, 1 as record_count 
+				,(case when a.amount>2000 then 1 else 0 end) as derived_flag 
+				from dbo.account_transact a 
+				left join 
+				dbo.account_fraud b on 
+				a.acct_nbr = b.account_nbr  and 
+				a.txn_date = b.trx_date 
+				where b.account_nbr is not null 
+		)c
+		group by fraud_ind, derived_flag
+
+go
+
+
