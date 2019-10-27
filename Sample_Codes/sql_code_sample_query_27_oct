@@ -4,30 +4,41 @@ go
 select * from dbo.account_fraud a --where a.account_nbr = '101'
 go 
 
-select a.*, b.* 
-				,(case when a.amount>2000 then 1 else 0 end) as derived_flag 
-				from dbo.account_transact a 
-				left join 
-				dbo.account_fraud b on 
-				a.acct_nbr = b.account_nbr  and 
-				a.txn_date = b.trx_date 
-				where b.account_nbr is not null 
-				
-Select	fraud_ind
-			,	derived_flag
-			,	count(*) as total_count  from 
-		(
-			select a.*, b.*
-				, 1 as record_count 
-				,(case when a.amount>2000 then 1 else 0 end) as derived_flag 
-				from dbo.account_transact a 
-				left join 
-				dbo.account_fraud b on 
-				a.acct_nbr = b.account_nbr  and 
-				a.txn_date = b.trx_date 
-				where b.account_nbr is not null 
-		)c
-		group by fraud_ind, derived_flag
+drop table #temp
+select a.*, b.*
+	--, 1 as record_count 
+	,(case when a.amount>2000 then 1 else 0 end) as derived_ind 
+	, count(*) OVER () as TotalRecords
+into #temp 
+from dbo.account_transact a 
+left join 
+	dbo.account_fraud b on 
+	a.acct_nbr = b.account_nbr  and 
+	a.txn_date = b.trx_date 
+where b.account_nbr is not null 
+go 
+select * from #temp 
+go 
+/*find overall percentage accuracy*/
+Select		
+		count(*) as total_records_count 
+	,	sum(fraud_ind) as orig_fraud_ind
+	,	sum(derived_ind) as derived_flag
+	,	sum(derived_ind)*1.00/sum(fraud_ind)  perct_accuracy
+	from 
+	#temp
+go 
+Select		fraud_ind
+		,	derived_ind 
+		,	totalrecords
+		,	count(*) as total_count
+		,	COUNT(*)*1.00/totalrecords as prct_accuracy 
+	from 
+		#temp 
+	group by  
+			fraud_ind
+		,	derived_ind 
+		,	totalrecords
 
 go
 
