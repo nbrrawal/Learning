@@ -1,0 +1,60 @@
+data one;
+  input code1-code6;
+datalines;
+3 1 5 4 6 2
+9 8 6 5 7 4
+3 2 1 9 0 7
+8 2 6 4 0 1
+5 7 4 3 8 2
+;
+
+/* The DO UNTIL loop iterates until all of the variable values within an observation have          */
+/* been sorted. Set SORTED to 1 and SORTED will be set to 0 each time the DO group executes        */
+/* to reorder values. When that code does not execute, the array is already sorted, SORTED remains */
+/* 1 and prevents the DO UNTIL loop from executing again.                                          */
+
+data varsort(keep=code1-code6);
+  array code(*) code1-code6;
+  set one;
+  do until (sorted);
+    sorted=1;
+    do i = 1 to dim(code)-1;
+      if code(i) > code(i+1) then do;
+        temp=code(i+1);
+        code(i+1)=code(i);
+        code(i)=temp;
+        sorted=0;
+      end;
+    end;
+  end;
+run;
+
+proc print data=varsort;
+run;
+
+
+
+/* Alternative method for SAS 9.0 and above using the SMALLEST function. */
+
+/* The SMALLEST function returns the kth smallest non-missing value.     */ 
+/* To reorder from largest to smallest, use the LARGEST value instead.   */
+
+data two;
+  keep reordered:;
+  set one;
+  array code(6);
+  array reordered(6);
+  do k=1 to 6;
+    reordered(k)=smallest(k, of code1-code6);  
+  end;
+run;
+
+data three;
+  keep reordered:;
+  set one;
+  array code(6);
+  array reordered(6);
+  do k=1 to 6;
+    reordered(k)=largest(k, of code1-code6);  
+  end;
+run;
