@@ -56,3 +56,10 @@ http://docs.h2o.ai/h2o-tutorials/latest-stable/WhatIsH2O.html
 http://docs.h2o.ai/h2o-tutorials/latest-stable/tutorials/glrm/glrm-tutorial.html
 https://towardsdatascience.com/automatic-machine-learning-in-fraud-detection-using-h2o-automl-6ba5cbf5c79b
 https://www.kaggle.com/ntnu-testimon/paysim1
+
+findings on persoanl desktop 6 gb ram , quad core : Only Python pakcages on personal 
+6 millions rows importing data and manipulation was almost instant. Well known pandas pacakge certainly takes more time(atleast 10 times). 
+progress bar explaining the current processing 
+described function delivered descriptive results almost within a few seconds
+automl training on 6 millions took a few miunutes with 
+
