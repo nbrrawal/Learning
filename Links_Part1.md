@@ -211,3 +211,5 @@ https://github.com/llSourcell/logistic_regression_newtons_method
 <br>https://ai.google/research/teams/brain
 <br>http://contrib.scikit-learn.org/imbalanced-learn/stable/
 <br> https://www.academia.edu/13964197/A_new_feature_weighted_fuzzy_clustering_algorithm?auto=download
+  
+  
